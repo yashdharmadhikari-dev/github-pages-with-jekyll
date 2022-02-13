@@ -10,4 +10,4 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  yashdharmadhikari-dev
 instagram_username: theyash.dev
 
-show_excerpts: ttrue
+theme: minima
